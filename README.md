@@ -1,2 +1,2 @@
-# rat
-R.A.T (Report and Transmit)
+# R.A.T.
+R.A.T. (Report and Transmit)
